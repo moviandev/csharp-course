@@ -1,0 +1,13 @@
+C:\Users\mathe\projects\Csharp-course\Csharp-course\bin\Debug\netcoreapp3.1\Csharp-course.exe
+C:\Users\mathe\projects\Csharp-course\Csharp-course\bin\Debug\netcoreapp3.1\Csharp-course.deps.json
+C:\Users\mathe\projects\Csharp-course\Csharp-course\bin\Debug\netcoreapp3.1\Csharp-course.runtimeconfig.json
+C:\Users\mathe\projects\Csharp-course\Csharp-course\bin\Debug\netcoreapp3.1\Csharp-course.runtimeconfig.dev.json
+C:\Users\mathe\projects\Csharp-course\Csharp-course\bin\Debug\netcoreapp3.1\Csharp-course.dll
+C:\Users\mathe\projects\Csharp-course\Csharp-course\bin\Debug\netcoreapp3.1\Csharp-course.pdb
+C:\Users\mathe\projects\Csharp-course\Csharp-course\obj\Debug\netcoreapp3.1\Csharp-course.csprojAssemblyReference.cache
+C:\Users\mathe\projects\Csharp-course\Csharp-course\obj\Debug\netcoreapp3.1\Csharp-course.AssemblyInfoInputs.cache
+C:\Users\mathe\projects\Csharp-course\Csharp-course\obj\Debug\netcoreapp3.1\Csharp-course.AssemblyInfo.cs
+C:\Users\mathe\projects\Csharp-course\Csharp-course\obj\Debug\netcoreapp3.1\Csharp-course.csproj.CoreCompileInputs.cache
+C:\Users\mathe\projects\Csharp-course\Csharp-course\obj\Debug\netcoreapp3.1\Csharp-course.dll
+C:\Users\mathe\projects\Csharp-course\Csharp-course\obj\Debug\netcoreapp3.1\Csharp-course.pdb
+C:\Users\mathe\projects\Csharp-course\Csharp-course\obj\Debug\netcoreapp3.1\Csharp-course.genruntimeconfig.cache
